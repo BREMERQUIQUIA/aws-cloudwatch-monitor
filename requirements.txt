@@ -1,0 +1,20 @@
+# AWS SDK
+boto3==1.34.0
+botocore==1.34.0
+
+# Data processing
+pandas==2.1.4
+
+# HTML report generation
+jinja2==3.1.2
+
+# Scheduling (for automated reports)
+schedule==1.2.1
+
+# Environment variables
+python-dotenv==1.0.0
+
+# Testing
+pytest==7.4.3
+pytest-mock==3.12.0
+moto==4.2.14
